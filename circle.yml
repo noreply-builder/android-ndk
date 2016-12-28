@@ -11,5 +11,5 @@ dependencies:
 test:
   override:
     - cd native-codec
-    - ./gradlew assembleDebug:
+    - ./gradlew assembleDebug
   timeout: 360
